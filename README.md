@@ -15,8 +15,7 @@ L'application est scindée en deux vues interactives :
 
 ## Aperçu
 *(Remplace le lien ci-dessous par une capture d'écran. Astuce : Tu peux mettre deux captures d'écran côte à côte pour montrer les deux vues !)*
-![Capture d'écran de l'application](https://via.placeholder.com/500x500.png?text=Ajouter+une+capture+ici)
-
+`![Formulaire](Screenshot1.png) ![Recap](Screenshot2.png)`
 ## Concepts techniques abordés
 Ce laboratoire m'a permis d'assimiler des concepts fondamentaux du système Android :
 * **Les Intents Explicites :** Utilisation de la classe `Intent` pour instancier et déclencher la transition de `MainActivity` vers `Screen2Activity`.
