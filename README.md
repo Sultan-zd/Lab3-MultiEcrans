@@ -14,7 +14,6 @@ L'application est scindée en deux vues interactives :
 2. **Écran de Récapitulatif :** Intercepte les données envoyées par le formulaire et les affiche de manière formatée. Un bouton "Retour" permet de fermer la page en cours et de revenir au formulaire initial.
 
 ## Aperçu
-*(Remplace le lien ci-dessous par une capture d'écran. Astuce : Tu peux mettre deux captures d'écran côte à côte pour montrer les deux vues !)*
 ![Formulaire](Screenshot1.png) ![Recap](Screenshot2.png)
 ## Concepts techniques abordés
 Ce laboratoire m'a permis d'assimiler des concepts fondamentaux du système Android :
