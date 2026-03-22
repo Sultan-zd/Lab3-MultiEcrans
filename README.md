@@ -34,6 +34,7 @@ Ce laboratoire m'a permis d'assimiler des concepts fondamentaux du système Andr
 3. Sélectionnez File > Open et choisissez le dossier du projet cloné.
 4. Laissez Gradle synchroniser les dépendances.
 5. Cliquez sur le bouton Run (le triangle vert) pour lancer l'application sur un émulateur ou un appareil physique.
-   
+
+***
 Projet réalisé dans le cadre de mon apprentissage du développement mobile Android.
 ***
